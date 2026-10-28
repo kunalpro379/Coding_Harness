@@ -1,0 +1,10 @@
+{"run": "53ddae7fd78a", "timestamp": 1793209600.4401412, "event": "model_step", "step": 1, "usd": 0.0857}
+{"run": "53ddae7fd78a", "timestamp": 1793209601.4878383, "event": "model_step", "step": 2, "usd": 0.1614}
+{"run": "53ddae7fd78a", "timestamp": 1793209603.3992996, "event": "model_step", "step": 3, "usd": 0.2381}
+{"run": "53ddae7fd78a", "timestamp": 1793209604.689688, "event": "model_step", "step": 4, "usd": 0.3159}
+{"run": "53ddae7fd78a", "timestamp": 1793209619.4755936, "event": "model_step", "step": 5, "usd": 0.3938}
+{"run": "53ddae7fd78a", "timestamp": 1793209621.6777074, "event": "model_step", "step": 6, "usd": 0.4758}
+{"run": "53ddae7fd78a", "timestamp": 1793209624.5354578, "event": "model_step", "step": 7, "usd": 0.5766}
+{"run": "53ddae7fd78a", "timestamp": 1793209639.7455707, "event": "model_step", "step": 8, "usd": 0.6835}
+{"run": "53ddae7fd78a", "timestamp": 1793209694.695979, "event": "model_step", "step": 9, "usd": 0.8789}
+{"run": "53ddae7fd78a", "timestamp": 1793209703.1254663, "event": "model_step", "step": 10, "usd": 1.0704}
