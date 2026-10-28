@@ -14,14 +14,17 @@
   <img src="https://img.shields.io/badge/UI-TerminalUI%20(Rich)-black?style=flat-square&logo=gnometerminal" alt="Rich TUI"/>
 </p>
 
+
+<p align="center">
+  <img src="./architecture.png" alt="Architecture Diagram" width="900"/>
+</p>
+
 ---
 
 ## Demo Video
 
 <p align="center">
-  <video src="docs/LinkdinPost.mp4" controls="controls" width="100%">
-    Your browser does not support the video tag.
-  </video>
+  <img src="docs/demo_preview.gif" alt="Full Autonomous End-to-End Coding Session Demo" width="100%"/>
   <br/>
   <em>Full Autonomous End-to-End Coding Session Demo</em>
   <br/>
@@ -59,9 +62,6 @@ It isolates execution contexts, controls token bloat via proactive disk spilling
 
 ## System Architecture
 
-<p align="center">
-  <img src="./architecture.png" alt="Architecture Diagram" width="900"/>
-</p>
 
 The system operates across distinct decoupled layers:
 - **CLI / UI**: TerminalUI built on top of Rich without noisy artifacts.
